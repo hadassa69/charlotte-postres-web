@@ -1,0 +1,23 @@
+:root {
+    /* Escala neutral */
+    --neutral-0: #000000;
+    --neutral-300: #050504;
+    --neutral-350: #151312;
+    --neutral-400: #25211F;
+    --neutral-450: #352F2D;
+    --neutral-500: #352F2D;
+    --neutral-550: #868281;
+    --neutral-600: #AEACAB;
+    --neutral-650: #D7D5D5;
+    --neutral-700: #EBEAEA;
+    --neutral-1000: #FFFFFF;
+
+    /* Color principal */
+    --choco-350: #240F06;
+    --choco-400: #361609;
+    --choco-450: #481E0C;
+    --choco-500: #5A250F;
+    --choco-550: #7B513F;
+    --choco-600: #9C7C6F;
+    --choco-650: #BDA89F;
+}
